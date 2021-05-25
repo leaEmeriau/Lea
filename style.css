@@ -1,0 +1,134 @@
+.navbar ul {
+  padding: 14px;
+  margin: auto;
+  background-color: orange;
+  color: aliceblue;
+  text-align: justify;
+  position: fixed;
+  display: flex;
+  width: 100%;
+
+}
+
+.navbar ul li {
+
+  margin-left: 15px;
+  list-style: none;
+  color-adjust: ;
+}
+
+td > h1 {
+  font-family: fantasy;
+  color: seagreen;
+  
+}
+
+img {
+    padding: 20px rem;
+    margin: 20px rem;
+    border-style: dotted;
+      border-color: seagreen;
+      border-radius: 75px;
+      border-image-width: auto;
+      position: center;
+}
+table {
+
+    position: center;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+  
+}
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: whitesmoke;
+  
+  }
+
+
+  #nom > h2 
+  {
+      color: black;
+      text-align: center;
+      position: center;
+  }
+
+  #nom > p
+  {
+      color: seagreen;
+      text-align: center;
+      position: center;
+  }
+
+
+  H3
+ {
+text-align: center;
+font-family: fantasy;
+background-color: seagreen;
+    color: white;
+      padding: 10px;
+      margin: auto;
+     text-align: auto;
+
+ }
+  
+
+ #Address 
+  {
+  
+    color: black;
+    padding: 30px;
+    margin: auto;
+    height: 150px;
+  }
+
+  #details
+  {
+
+color: black;
+padding: 30px;
+margin: auto;
+height: 150px;
+  }
+
+  #EXPERIENCE {
+   
+    padding: 5px;
+    margin: 5px;
+text-align: justify;
+height: 150px;
+
+  }
+
+  hr {
+height: 50px;
+  }
+
+p {
+  font-family: sans-serif;
+}
+
+#contactez
+{
+height: 150px;
+background-color: #30262F;
+color: white;
+}
+
+.Paragraph {
+  position: center;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ padding: 5px;
+ margin: 5px
+}
+
+
+
+@media (max-width: 780) {
+
+  .navbar ul { display: none;}
+}
+
